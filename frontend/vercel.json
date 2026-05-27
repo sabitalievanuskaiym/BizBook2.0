@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://bizbook-backend.onrender.com/api/:path*"
+    }
+  ]
+}
