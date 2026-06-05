@@ -1,4 +1,4 @@
-const API_BASE = 'https://bizbook-backend.onrender.com';
+const API_BASE = 'https://bizbook-backend.onrender.com/api';
 const DEFAULT_TENANT_SLUG = import.meta.env.VITE_TENANT_SLUG || 'elite-barbers';
 
 const AUTH_CHANGE_EVENT = 'bizbook-auth-change';
