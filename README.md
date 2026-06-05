@@ -9,6 +9,7 @@
 Посмотреть видеодемонстрацию работы приложения и его основных функций можно по ссылке:
 👉 **[Смотреть видео на YouTube](https://youtu.be/sjbX25t_Fuw)**
 
+https://biz-book2-0-git-main-sabitalievanuskaiyms-projects.vercel.app/book
 ---
 
 ## 🚀 Основные возможности
