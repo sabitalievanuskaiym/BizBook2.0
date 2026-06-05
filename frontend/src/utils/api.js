@@ -66,7 +66,7 @@ export const getStoredUser = () => {
 const buildHeaders = (includeAuth = true) => {
   const headers = {
     'Content-Type': 'application/json',
-    'X-Tenant-Slug': getTenantSlug() || DEFAULT_TENANT_SLUG,
+    'X-Tenant-Slug': 'elite-barbers',
   };
 
   if (includeAuth) {
